@@ -3,6 +3,6 @@
 
 - 🌱 I’m currently learning **React, Next.js and Node.js**
 - 💼 I'm currently looking for an apprenticeship  👉 [Linkedin](https://www.linkedin.com/in/nicolasollier2/)
-- 📫 How to reach me  👉 [Mail](mailto:nicolas.f.ollier@gmail.com)
+- 📫 How to reach me **nicolas.f.ollier[at]gmail.com**
 
 
